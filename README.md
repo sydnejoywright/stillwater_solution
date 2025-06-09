@@ -9,7 +9,8 @@ INITIAL ERD
 <img width="930" alt="Screenshot 2025-05-29 at 11 56 48 AM" src="https://github.com/user-attachments/assets/04422b89-db8e-4ac5-ba35-21f0f9e3429c" />
 
 Sketch rough system design of your project, what are the technologies and pieces (shapes) and interactions (arrows)
-![Uploading Screenshot 2025-06-09 at 3.12.24 PM.png…]()
+
+<img width="637" alt="Screenshot 2025-06-09 at 3 12 24 PM" src="https://github.com/user-attachments/assets/45be1620-8068-4822-b450-8339e6b71e00" />
 
 
 TIMELINE GOALS
